@@ -78,7 +78,9 @@ Manual waste sorting is time-consuming, labor-intensive, and prone to human erro
 
 ## Requirements
 
-pip install tensorflow opencv-python numpy pandas matplotlib seaborn scikit-learn pillow## 🚀 Usage
+pip install tensorflow opencv-python numpy pandas matplotlib seaborn scikit-learn pillow
+
+## Usage
 
 1. **Data Preparation:** Organize images in class-specific folders
 2. **Run EDA:** Execute exploratory data analysis cells
